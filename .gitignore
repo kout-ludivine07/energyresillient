@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+.env
+!.env.example
+db.sqlite3
+.coverage
+.DS_Store
+*.log

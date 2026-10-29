@@ -1,0 +1,10 @@
+{
+  "name":"EnergyResilient",
+  "short_name":"EnergyResilient",
+  "description":"Community-powered outage awareness and personal energy planning",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#071b13",
+  "theme_color":"#071b13",
+  "icons":[]
+}
